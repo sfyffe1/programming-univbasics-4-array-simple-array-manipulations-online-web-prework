@@ -3,3 +3,5 @@ def "using_push"
   next_color = "violet"
   colors_in_the_rainbow.push(next_color)
 end
+
+"using_push"
