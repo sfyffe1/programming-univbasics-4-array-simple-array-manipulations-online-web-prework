@@ -1,3 +1,3 @@
 def "using_push"
-  array.push
+  array.push(next_color)
 end
